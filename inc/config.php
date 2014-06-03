@@ -9,7 +9,7 @@ $base = "gestion";
 mysql_connect($host,$user,$pass);
 mysql_select_db($base);
 
-$rootsite = "http://127.0.0.1/gestion/";
+$rootsite = "http://127.0.0.1/GCO/";
 
 //Formatae Date
 date_default_timezone_set('UTC');
