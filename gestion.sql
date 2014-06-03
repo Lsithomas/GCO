@@ -605,7 +605,9 @@ INSERT INTO `membre` (`iduser`, `login`, `pass_md5`, `nom`, `prenom`, `images`, 
 (4, 'Alexis', '059bf68f71c80fce55214b411dd2280c', 'CARPENTIER', 'ALEXIS', '', 'Technicien'),
 (5, 'Eric', '29988429c481f219b8c5ba8c071440e1', 'SETBON', 'Eric', '', 'Gestion - Comptable - Juridique'),
 (6, 'corentin', '16324c67e9c49ebbcaadb45c9db2fa22', 'LE BIVIC', 'Corentin', '', 'Technicien'),
-(7, 'Syltheron', '201c238c414b3f9d7bec9bb76567f65a', '', '', '', '');
+(7, 'Syltheron', '201c238c414b3f9d7bec9bb76567f65a', '', '', '', ''),
+(8, 'thomas', 'fb2fcd534b0ff3bbed73cc51df620323', 'PRAUD', 'Thomas', '','Stagiaire'),
+(9, 'julien', '81dc9bdb52d04dc20036dbd8313ed055', 'BABINOT', 'Julien', '', 'Stagiaire');
 
 -- --------------------------------------------------------
 
